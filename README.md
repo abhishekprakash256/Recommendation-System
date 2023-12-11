@@ -71,5 +71,8 @@ At the next level, second-order interactions of different features  are computed
 ```
 https://www.youtube.com/playlist?list=PLQY2H8rRoyvy2MiyUBz5RWZr5MPFkV3qz
 https://www.nvidia.com/en-us/glossary/data-science/recommendation-system/
+https://medium.com/@khang.pham.exxact/what-are-recommendation-systems-6bb5036042db
+https://towardsdatascience.com/introduction-to-recommender-systems-6c66cf15ada
+https://github.com/grahamjenson/list_of_recommender_systems
 ```
 
