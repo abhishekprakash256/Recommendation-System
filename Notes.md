@@ -12,6 +12,12 @@ AI-based recommender engines can analyze an individual’s purchase  behavior an
 
 ### Matrix Factorization for Recommendation
 
+[Matrix factorization](https://developer.nvidia.com/blog/accelerate-recommender-systems-with-gpus/) (MF) techniques are the core of many popular algorithms, including word embedding and topic modeling, and have become a dominant methodology  within collaborative-filtering-based recommendation. MF can be used to  calculate the similarity in user’s ratings or interactions to provide  recommendations. In the simple user item matrix below, Ted and Carol  like movies B and C. Bob likes movie B. To recommend a movie to Bob,  matrix factorization calculates that users who liked B also liked C, so C is a possible recommendation for Bob.
+
+![Matrix factorization (MF).](https://www.nvidia.com/content/dam/en-zz/Solutions/glossary/data-science/recommendation-system/img-5.png)
+
+
+
 
 
 
