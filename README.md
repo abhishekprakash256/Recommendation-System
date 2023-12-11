@@ -20,6 +20,7 @@ The repo is for building a recommendation system for the product database that i
 
 ```t
 https://www.youtube.com/playlist?list=PLQY2H8rRoyvy2MiyUBz5RWZr5MPFkV3qz
+https://www.nvidia.com/en-us/glossary/data-science/recommendation-system/
 
 ```
 
